@@ -8,7 +8,7 @@ helpful links:
 
 ### Hello Roman - youtube vue course 
 
-* youtube link: x
+* youtube link: https://www.youtube.com/watch?v=PmlipEkFSOk&list=PLKnxnWdLGM49Lf7V-nl5zKf-JNMlZpACA
 
 ### How to start?
 
